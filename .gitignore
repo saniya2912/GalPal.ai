@@ -1,0 +1,4 @@
+galpal-venv/
+__pycache__/
+*.pyc
+
